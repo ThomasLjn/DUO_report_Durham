@@ -54,5 +54,5 @@ The integrals has been computed for 100 eigenstates of the excited complex with 
 
 The figure 8 from the direct imaging paper @guan_nondestructive_2020 can then be "reproduced", as shown in fig @3plots. A similar graphical chart as in the paper has been used for better comparison between both figures. The value of the relevant $gamma/Gamma$ points are 12 and 19 in the article. The results of DUO simulations gives 9 and 20, which is still close. The issue the probably in the lifetime computation, since it is the plot with the most differences.
 
-#figure(image("../resources/fig/combined_spectroscopy.svg", width:90%), caption:[Lifetime (top panel), transition linewidth (middle panel) and ratio of both (bottom panel) of eigenstates of the $J'=0$ $"A"^1Sigma^+-"b"^3Pi_0$ complex of NaRb molecule. Left pannel: DUO simulations. Right pannel: direct imaging paper @guan_nondestructive_2020]) <3plots>
+#figure(image("../resources/fig/combined_spectroscopy.svg", width:90%), caption:[Lifetime (top panel), transition linewidth (middle panel) and ratio of both (bottom panel) of eigenstates of the $J'=0$ $"A"^1Sigma^+-"b"^3Pi_0$ complex of RbCs molecule. Left pannel: DUO simulations. Right pannel: direct imaging paper @guan_nondestructive_2020]) <3plots>
 
